@@ -1,10 +1,9 @@
 # AuthApp
 
-AuthApp is a Flutter application that provides a user authentication interface with animations and a customizable user experience. This app includes a login page and a home page with animated transitions.
+AuthApp is a Flutter-based mobile application designed to provide a modern login user interface. This project includes a login page with animated transitions and a logout button.
 
 ## Features
 
-- **User Authentication**: Login functionality with animated transitions.
 - **Animated UI**: Smooth and engaging animations for login and home screens.
 - **Responsive Design**: Adapts to different screen sizes.
 
@@ -37,12 +36,6 @@ AuthApp is a Flutter application that provides a user authentication interface w
     ```bash
     flutter run
     ```
-
-## Usage
-
-- Open the app and browse through featured games.
-- Use the theme toggle button to switch between light and dark modes.
-- Scroll horizontally to view more games in the different categories.
 
 
 ## Contributing
